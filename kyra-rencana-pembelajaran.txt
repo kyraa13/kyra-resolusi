@@ -2,5 +2,6 @@ RENCANA PEMBELAJARAN
 
 - HTML
 - CSS
-- Java script
+  * Framework CSS
+- Javascript
 - PHP
