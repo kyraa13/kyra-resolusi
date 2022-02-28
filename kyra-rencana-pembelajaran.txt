@@ -3,5 +3,9 @@ RENCANA PEMBELAJARAN
 - HTML
 - CSS
   * Framework CSS
+   - Bootstrap 5
 - Javascript
 - PHP
+- PHP Framework
+  - Laravel
+- Python
