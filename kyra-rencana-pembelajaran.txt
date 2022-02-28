@@ -2,6 +2,10 @@ RENCANA PEMBELAJARAN
 
 - HTML
 - CSS
-  * Framework CSS
 - Javascript
+- Framework Javascript
+  - Angular
+  - React
 - PHP
+- PHP Framework
+  - Laravel
