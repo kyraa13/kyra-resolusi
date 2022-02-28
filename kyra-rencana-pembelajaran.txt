@@ -5,6 +5,9 @@ RENCANA PEMBELAJARAN
   * Framework CSS
    - Bootstrap 5
 - Javascript
+- Framework Javascript
+  - vue
+  - react
 - PHP
 - PHP Framework
   - Laravel
