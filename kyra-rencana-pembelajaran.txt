@@ -4,6 +4,7 @@ RENCANA PEMBELAJARAN
 - CSS
   * Framework CSS
    - Bootstrap 5
+   - Tailwind
 - Javascript
 - Framework Javascript
   - vue
