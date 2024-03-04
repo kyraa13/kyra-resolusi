@@ -9,6 +9,7 @@ RENCANA PEMBELAJARAN
 - Framework Javascript
   - vue
   - react
+  - next.js
 - PHP
 - PHP Framework
   - Laravel
