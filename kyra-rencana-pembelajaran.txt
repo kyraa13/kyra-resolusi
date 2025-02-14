@@ -1,7 +1,7 @@
 RENCANA PEMBELAJARAN
 
-- HTTP 
-- HTML
+- HTTP ✅
+- HTML 
 - CSS
   * Framework CSS
    - Bootstrap 5
