@@ -1,10 +1,10 @@
 RENCANA PEMBELAJARAN
 
 - HTTP ✅
-- HTML 
-- CSS
+- HTML ✅
+- CSS ✅
   * Framework CSS
-   - Bootstrap 5
+   - Bootstrap 5 ✅
    - Tailwind
 - Javascript
 - Framework Javascript
