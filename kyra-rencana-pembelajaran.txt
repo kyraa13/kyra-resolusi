@@ -4,6 +4,7 @@ RENCANA PEMBELAJARAN
 - HTML ✅
 - CSS ✅
   * Framework CSS
+   - SCSS
    - Bootstrap 5 ✅
    - Tailwind
 - Javascript
