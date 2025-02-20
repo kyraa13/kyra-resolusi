@@ -7,7 +7,7 @@ RENCANA PEMBELAJARAN
    - SCSS
    - Bootstrap 5 ✅
    - Tailwind
-- Javascript
+- Javascript ✅
 - DOM
 - Framework Javascript
   - vue
